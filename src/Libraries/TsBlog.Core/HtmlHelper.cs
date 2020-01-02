@@ -6,7 +6,7 @@ namespace TsBlog.Core
     {
         #region 去掉HTML中的所有标签,只留下纯文本
         /// <summary>
-        /// 去掉HTML中的所有标签,只留下纯文本
+        /// 去掉HTML中的所有标签,只留下纯文本1
         /// </summary>
         /// <param name="strHtml"></param>
         /// <returns></returns>
